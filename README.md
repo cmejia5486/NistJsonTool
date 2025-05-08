@@ -68,25 +68,25 @@ The application allows users to filter CVEs by year and keyword, correlate them 
  1. Select the directory to which the repository will be cloned:  
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans9.png" alt="NetBeans9" />
+  <img src="TutorialImgs/Netbeans7.png" alt="NetBeans7" />
 </div>
     
- 2. Run the command git clone https://github.com/cmejia5486/nistJson.git. 
+ 2. Run the command git clone https://github.com/cmejia5486/NistJsonTool.git
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans10.png" alt="NetBeans10" />
+  <img src="TutorialImgs/Netbeans8.png" alt="NetBeans8" />
 </div> 
 
  3. Visit the NIST NVD URL https://nvd.nist.gov/vuln/data-feeds, download the data feeds in Json format and place them in the "JsonData" directory of the project. 
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans11.png" alt="NetBeans11" />
+  <img src="TutorialImgs/Netbeans9.png" alt="NetBeans9" />
 </div> 
 
- 4. Open the project in the previously installed NetBeans Ide 8.0.2 and click on clean and build option.
+ 4. Open the project in the previously installed Apache NetBeans Ide 25 and click on clean and build option.
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans12.png" alt="NetBeans12" />
+  <img src="TutorialImgs/Netbeans10.png" alt="NetBeans10" />
 </div> 
 
 
