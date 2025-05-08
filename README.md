@@ -94,6 +94,19 @@ The application allows users to filter CVEs by year and keyword, correlate them 
 <div align="center">
   <img src="TutorialImgs/Netbeans11.png" alt="NetBeans11" />
 </div> 
+
+ 6. Select "Payara Server" and click next.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans12.png" alt="NetBeans12" />
+</div> 
+
+7. Select option 6.2025.4 and click the "Download Now..." button.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans13.png" alt="NetBeans13" />
+</div> 
+
 ## Setting the keywords
 
  1. Inside the nist.main package go to the main.class class and in the list of strings you can add as many "keys" as you consider necessary, for the particular example "HEALTH" and "MEDIC" have been added.
