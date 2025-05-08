@@ -89,7 +89,11 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans10.png" alt="NetBeans10" />
 </div> 
 
-
+ 5. Go to the services tab, in the servers option select "Add Server...".
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans11.png" alt="NetBeans11" />
+</div> 
 ## Setting the keywords
 
  1. Inside the nist.main package go to the main.class class and in the list of strings you can add as many "keys" as you consider necessary, for the particular example "HEALTH" and "MEDIC" have been added.
