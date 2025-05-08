@@ -2,9 +2,9 @@
 ![NistJson Tool](TutorialImgs/NistJson1.PNG)
 
 ## Description
-NistJson represents a web-oriented Java application meticulously crafted for the proficient processing, analysis, and exportation of Common Vulnerabilities and Exposures (CVE) data disseminated by the National Vulnerability Database (NVD). In contrast to command-line utilities or scripts, NistJson incorporates an interactive, multilingual graphical user interface (GUI) engineered with Jakarta EE and PrimeFaces, thereby providing an accessible and reproducible environment for the examination of software vulnerabilities. 
+NistJson is a web-based Java application meticulously designed for the efficient processing, analysis, and export of Common Vulnerabilities and Exposures (CVE) data released by the National Vulnerability Database (NVD). Unlike command-line utilities or scripts, NistJson incorporates an interactive, multilingual graphical user interface (GUI), designed with Jakarta EE and PrimeFaces, providing an accessible and reproducible environment for software vulnerability analysis.
 
-The application empowers users to filter CVEs based on year and keyword, correlate them with Common Weakness Enumeration (CWE) categories, and export the resultant datasets in Comma-Separated Values (CSV) format. It is particularly suited for applications such as eHealth security, DevSecOps pipelines, and scholarly research endeavors that necessitate extensive vulnerability assessments and reproducibility.
+The application allows users to filter CVEs by year and keyword, correlate them with Common Weakness Enumeration (CWE) categories, and export the resulting datasets in Comma-Separated Values ​​(CSV) format. Due to its keyword filtering capabilities, it can be applied to any branch of knowledge, including eHealth security, DevSecOps processes, and academic research that requires comprehensive vulnerability assessments and reproducibility.
 
 ## Key Features
 
