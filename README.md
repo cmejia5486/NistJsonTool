@@ -28,51 +28,39 @@ The application allows users to filter CVEs by year and keyword, correlate them 
 
 ## Installation of <a name="_hlk187925083"></a>NetBeans Ide 8.0.2
 
-1. Run the NetBeans Ide 8.0.2 installer and press the "Customize..." button:
+1. Run the Apache NetBeans Ide 25 installer and press the "Next" button:
    
 <div align="center">
   <img src="TutorialImgs/Netbeans1.png" alt="NetBeans" />
 </div>
 
-2. Enable plugins for java usage and click on “Ok” button:
+2. Accept the Licence Agreement and click on “Next” button:
 <div align="center">
   <img src="TutorialImgs/Netbeans2.png" alt="NetBeans2" />
 </div>
 
-3. Click on next button:
-
+ 3. Select the installation path and click on Next button 
+    
 <div align="center">
   <img src="TutorialImgs/Netbeans3.png" alt="NetBeans3" />
 </div>
-
- 4. Read and accept the terms of use, then, click on “Next” button 
+  
+ 4. Click on install button 
     
 <div align="center">
   <img src="TutorialImgs/Netbeans4.png" alt="NetBeans4" />
 </div>
-
- 5. Don’t install Junit, and click on “Next” button 
+ 
+ 5. Wait until the installation process is completed
     
 <div align="center">
   <img src="TutorialImgs/Netbeans5.png" alt="NetBeans5" />
 </div>
-
- 6. Select the installation path and click on Next button 
+ 
+ 6. Click on the Finish button 
     
 <div align="center">
   <img src="TutorialImgs/Netbeans6.png" alt="NetBeans6" />
-</div>
-  
- 7. Click on install button 
-    
-<div align="center">
-  <img src="TutorialImgs/Netbeans7.png" alt="NetBeans7" />
-</div>
-
- 8. Click on the Finish button 
-    
-<div align="center">
-  <img src="TutorialImgs/Netbeans8.png" alt="NetBeans8" />
 </div>
 
 ## Preparing java project
