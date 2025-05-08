@@ -1,5 +1,5 @@
 # NistJson: Open-Source Tool for JSON Processing and Software Vulnerabilities Analysis Based on NIST NVD
-![NistJson Tool](TutorialImgs/NistJson.PNG)
+![NistJson Tool](TutorialImgs/NistJson1.PNG)
 
 ## Description
 NistJson represents a Java console-oriented application meticulously designed for processing and extracting information relevant to software vulnerabilities. It employs the Jackson library to facilitate the processing and analysis of JSON-formatted data, which provides it with several significant advantages: (i) superior efficiency in managing large data sets, (ii) sophisticated search functionalities characterized by fully parameterizable criteria, (iii) adaptability and expandability attributable to its modular architecture and object-oriented programming paradigm, (iv) ease of use and modifiability for both experienced and novice programmers, and (v) reliability and accuracy ensuring research reproducibility by standardizing execution parameters and input data.
