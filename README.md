@@ -119,10 +119,10 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans15.png" alt="NetBeans15" />
 </div> 
 
-10. Review the settings for the Payara server and click the "Finish" button.
+10. Right click on Payara Server and press the "Start" button..
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans15.png" alt="NetBeans15" />
+  <img src="TutorialImgs/Netbeans16.png" alt="NetBeans16" />
 </div> 
 
 ## Setting the keywords
