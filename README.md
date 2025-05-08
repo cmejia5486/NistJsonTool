@@ -8,16 +8,23 @@ The application allows users to filter CVEs by year and keyword, correlate them 
 
 ## Key Features
 
-- **Intuitive UI with Flexible Configuration**: Designed for both experienced developers and non-technical users, NistJson provides an intuitive web interface for processing vulnerability data. Users can adjust parameters such as keywords, year ranges, and language preferences directly from the UI.
-- **Scalable and High-Performance JSON Processing**: Leveraging the Jackson library, NistJson efficiently parses large NVD JSON datasets with minimal resource usage. It supports multi-year CVE feeds and maintains consistent performance across growing data volumes.
-- **Modular and Expandable Architecture**: Built with clean object-oriented principles and a modular structure, the application can be easily extended or customized. New features, filters, or output formats can be integrated with minimal impact on the core system.
-- **Advanced Filtering and Metadata Augmentation**: NistJson enables dynamic, keyword-based filtering with fully parameterizable criteria. It also enriches vulnerability entries with supplemental metadata such as CVSS metrics, health relevance, and CWE classification.
-- **Internationalization and Language Switching**:Offers built-in support for multiple languages (e.g., English, Spanish), with session-based language selection using JSF resource bundles. Easy to extend by adding new locale files.
-- **Sophisticated Search and Advanced Data Enrichment**: NistJson offers advanced search capabilities characterized by fully parameterizable criteria, thereby enabling precise filtering and retrieval of data. Additionally, users are empowered to augment extracted vulnerability data with supplementary metadata, enriching the depth of analysis and insights.
-- **Research Reproducibility and Reliability**: By standardizing execution parameters and input data, the tool guarantees reliability and accuracy, facilitating the reproducibility of research endeavors and ensuring consistency of results across diverse studies.
-- **Efficient JSON Processing with Jackson**: NistJson capitalizes on the Jackson library to proficiently parse and process large volumes of JSON data, such as that sourced from the National Vulnerability Database (NVD), ensuring optimal performance and data integrity.
-- **CSV Export and Cross-Platform Compatibility**: The tool facilitates the straightforward export of processed data into CSV format for seamless integration with data analysis tools. As a Java-based application, it boasts cross-platform compatibility, enabling uninterrupted use across various operating systems without necessitating additional dependencies or configurations.
-- **Platform Independence and Easy Deployment**: Packaged as a WAR file and built with Java 17 and Jakarta EE 10, NistJson runs on any standard application server (Payara, WildFly, etc.) across Windows, Linux, or macOS environments without additional dependencies.
+- **Intuitive Web Interface with Flexible Configuration**: Tailored for both proficient developers and individuals lacking technical expertise, NistJson features a contemporary web interface constructed utilizing JSF and PrimeFaces. Users possess the capability to directly modify parameters such as temporal ranges, keywords, and output language through the interface.
+
+- **Internationalization and Multilingual UI**: Incorporates inherent support for English, Spanish, French, Portuguese, and German. Users have the ability to transition between languages during runtime via a session-aware user interface component, with language files administered through JSF resource bundles.
+
+- **Multi-file JSON Upload & High-Performance Parsing**: Facilitates the batch upload of JSON files (in SCAP format) sourced from the National Vulnerability Database (NVD), thus enabling scalable and efficient parsing of extensive datasets through the utilization of the Jackson library.
+
+- **Advanced Filtering and Data Enrichment**: Offers comprehensive parameterizable filtering predicated on keywords, year ranges, and additional criteria. Enhances vulnerability entries with enriched metadata, including CVSS metrics, CWE classifications, and relevance concerning health.
+
+- **Vulnerability Classification and Metrics**: Categorizes CVEs into CWE classifications and computes sophisticated statistics encompassing average scores, software presence, and health impact metrics pertinent to each category.
+
+- **Export to CSV and ZIP**: Produces downloadable CSV files encompassing CVE entries, CWE summaries, and affected software products. All outputs are systematically consolidated into a ZIP archive for the sake of user convenience during download.
+
+- **Research Reproducibility and Output Integrity**: Guarantees consistency in data processing by standardizing input formats and execution parameters, thereby facilitating reproducibility in both academic and professional research endeavors.
+
+- **Modular and Extensible Architecture**: Engineered with rigorous object-oriented principles and a modular framework, permitting the seamless integration of new filters, views, or export formats with minimal disruption to the existing codebase.
+
+- **Cross-platform and Standards-based Deployment**: Constructed utilizing Java 17 and Jakarta EE 10, the application is encapsulated as a WAR file and is deployable on any compliant application server (e.g., Payara, WildFly) across various operating systems including Windows, Linux, or macOS.
 
 ## Installation of <a name="_hlk187925083"></a>NetBeans Ide 8.0.2
 
