@@ -77,7 +77,7 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans8.png" alt="NetBeans8" />
 </div> 
 
- 3. Visit the NIST NVD URL https://nvd.nist.gov/vuln/data-feeds, download the data feeds in Json format and place them in the "JsonData" directory of the project. 
+ 3. Visit the NIST NVD URL https://nvd.nist.gov/vuln/data-feeds, download the data feeds in JSON format, and place them in an accessible directory for later upload to the web application. 
     
 <div align="center">
   <img src="TutorialImgs/Netbeans9.png" alt="NetBeans9" />
