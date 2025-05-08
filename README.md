@@ -31,36 +31,36 @@ The application allows users to filter CVEs by year and keyword, correlate them 
 1. Run the Apache NetBeans Ide 25 installer and press the "Next" button:
    
 <div align="center">
-  <img src="TutorialImgs/Netbeans1.png" alt="NetBeans" />
+  <img src="TutorialImgs/Netbeans1.PNG" alt="NetBeans" />
 </div>
 
 2. Accept the Licence Agreement and click on “Next” button:
 <div align="center">
-  <img src="TutorialImgs/Netbeans2.png" alt="NetBeans2" />
+  <img src="TutorialImgs/Netbeans2.PNG" alt="NetBeans2" />
 </div>
 
  3. Select the installation path and click on Next button 
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans3.png" alt="NetBeans3" />
+  <img src="TutorialImgs/Netbeans3.PNG" alt="NetBeans3" />
 </div>
   
  4. Click on install button 
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans4.png" alt="NetBeans4" />
+  <img src="TutorialImgs/Netbeans4.PNG" alt="NetBeans4" />
 </div>
  
  5. Wait until the installation process is completed
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans5.png" alt="NetBeans5" />
+  <img src="TutorialImgs/Netbeans5.PNG" alt="NetBeans5" />
 </div>
  
  6. Click on the Finish button 
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans6.png" alt="NetBeans6" />
+  <img src="TutorialImgs/Netbeans6.PNG" alt="NetBeans6" />
 </div>
 
 ## Preparing java project
