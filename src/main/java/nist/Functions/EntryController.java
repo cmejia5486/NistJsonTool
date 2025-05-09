@@ -323,7 +323,28 @@ public class EntryController {
         }
         software = software.replaceAll(":\\*", "");
         software = software.replaceAll(":-", "");
-        return software;
+        String[] parts = software.split(":", 3);
+
+        if (parts.length >= 2) {
+            software = parts[0] + ":" + parts[1];
+        }
+
+        if (software == null || !software.contains(":")) {
+            return software;
+        } else {
+            parts = software.split(":", 2);
+            String vendor = parts[0];
+            String product = parts[1];
+
+            int underscoreCount = product.length() - product.replace("_", "").length();
+
+            if (underscoreCount > 1) {
+                int firstUnderscore = product.indexOf('_');
+                product = product.substring(0, firstUnderscore);
+            }
+            software = vendor + ":" + product;
+            return software;
+        }
     }
 
     private ArrayList<String> getVulnerableSoftware1(String vulne, ObjectNode obj) {
