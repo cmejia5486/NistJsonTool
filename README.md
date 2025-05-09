@@ -149,56 +149,37 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans20.png" alt="NetBeans20" />
 </div> 
 
-16. Click on the first server link.
+## 6.	Running the tool
+
+1. Click on the first server link.
     
 <div align="center">
   <img src="TutorialImgs/Netbeans21.png" alt="NetBeans21" />
 </div> 
 
-17. You will be redirected to the index.xhtml, the main page of the tool presented in this project..
+2. You will be redirected to the index.xhtml, the main page of the tool presented in this project.
     
 <div align="center">
   <img src="TutorialImgs/Netbeans22.png" alt="NetBeans21" />
 </div> 
 
-## Setting the keywords
-
- 1. Inside the nist.main package go to the main.class class and in the list of strings you can add as many "keys" as you consider necessary, for the particular example "HEALTH" and "MEDIC" have been added.
+3. In the upper right corner, you'll find a language selector to adjust the interface for better user experience and usability.
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans13.PNG" alt="NB13" />
+  <img src="TutorialImgs/Netbeans22.png" alt="NetBeans22" />
 </div> 
 
-## 6.	Running the tool
-
- 1. Right click on the project and press the "Run" button, this will process the files in JSON format and generate the processed data as output in CVS format.
+4. In the input parameters section, you can enter the start year, end year, and keywords that will be used as search criteria, separated by commas, to process the entered JSON files.
     
 <div align="center">
-  <img src="TutorialImgs/Netbeans14.PNG" alt="NB14" />
+  <img src="TutorialImgs/Netbeans23.png" alt="NetBeans23" />
 </div> 
 
- 2. At the end of the execution of the tool, an output like the one presented will be generated. 
+5. The "Upload JSON Files" section will allow you to upload JSON files to the server for processing according to the years entered in the previous section, using the "Select files" button.
+    
 <div align="center">
-  <img src="TutorialImgs/Netbeans15.PNG" alt="NB15" />
+  <img src="TutorialImgs/Netbeans24.png" alt="NetBeans24" />
 </div> 
-
- 3. The generated files will be found under the directory:  ../nistJson/results. 
-<div align="center">
-  <img src="TutorialImgs/Netbeans16.PNG" alt="NB16" />
-</div> 
-
-
- 4. Right click over the VulnerabilityDataExporter java class and select “RunFile option
-<div align="center">
-  <img src="TutorialImgs/Netbeans17.PNG" alt="NB17" />
-</div> 
-
- 5. Once the execution is finished without exceptions, it will issue the information message about the files with the generated metrics
-<div align="center">
-  <img src="TutorialImgs/Netbeans18.PNG" alt="NB18" />
-</div> 
-
- 6. The generated files will be found under the directory:  ../nistJson/spss
 
 
 ## Demo
