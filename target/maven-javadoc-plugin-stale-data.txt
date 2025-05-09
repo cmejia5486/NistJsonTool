@@ -8,14 +8,14 @@
 -source
 '17'
 -sourcepath
-'C:/pp/s/NistJsonTool/src/main/java'
+'C:/pp/s/NistJsonTool/src/main/java;C:/pp/s/NistJsonTool/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/pp/s/NistJsonTool/target/site/apidocs'
+'C:/pp/s/NistJsonTool/target/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -56,22 +56,22 @@ C:\Users\Carlos\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.
 C:\Users\Carlos\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar = 1736390594532
 C:\Users\Carlos\.m2\repository\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar = 1733799718923
 C:\pp\s\NistJsonTool\src\main\java = 1746675586956
-C:\pp\s\NistJsonTool\target\site\apidocs\allclasses-index.html = 1746676642461
-C:\pp\s\NistJsonTool\target\site\apidocs\allpackages-index.html = 1746676642461
-C:\pp\s\NistJsonTool\target\site\apidocs\element-list = 1746676642319
-C:\pp\s\NistJsonTool\target\site\apidocs\help-doc.html = 1746676642512
-C:\pp\s\NistJsonTool\target\site\apidocs\index-all.html = 1746676642512
-C:\pp\s\NistJsonTool\target\site\apidocs\index.html = 1746676642445
-C:\pp\s\NistJsonTool\target\site\apidocs\javadoc.bat = 1746676523074
-C:\pp\s\NistJsonTool\target\site\apidocs\jquery-ui.overrides.css = 1746676642550
-C:\pp\s\NistJsonTool\target\site\apidocs\member-search-index.js = 1746676642477
-C:\pp\s\NistJsonTool\target\site\apidocs\module-search-index.js = 1746676642461
-C:\pp\s\NistJsonTool\target\site\apidocs\overview-summary.html = 1746676642512
-C:\pp\s\NistJsonTool\target\site\apidocs\overview-tree.html = 1746676642445
-C:\pp\s\NistJsonTool\target\site\apidocs\package-search-index.js = 1746676642477
-C:\pp\s\NistJsonTool\target\site\apidocs\script.js = 1746676642531
-C:\pp\s\NistJsonTool\target\site\apidocs\search.js = 1746676642535
-C:\pp\s\NistJsonTool\target\site\apidocs\serialized-form.html = 1746676642379
-C:\pp\s\NistJsonTool\target\site\apidocs\stylesheet.css = 1746676642529
-C:\pp\s\NistJsonTool\target\site\apidocs\tag-search-index.js = 1746676642477
-C:\pp\s\NistJsonTool\target\site\apidocs\type-search-index.js = 1746676642477
+C:\pp\s\NistJsonTool\target\generated-sources\annotations = 1746760212168
+C:\pp\s\NistJsonTool\target\apidocs\allclasses-index.html = 1746760219087
+C:\pp\s\NistJsonTool\target\apidocs\allpackages-index.html = 1746760219087
+C:\pp\s\NistJsonTool\target\apidocs\element-list = 1746760218947
+C:\pp\s\NistJsonTool\target\apidocs\help-doc.html = 1746760219147
+C:\pp\s\NistJsonTool\target\apidocs\index-all.html = 1746760219142
+C:\pp\s\NistJsonTool\target\apidocs\index.html = 1746760219062
+C:\pp\s\NistJsonTool\target\apidocs\jquery-ui.overrides.css = 1746760219178
+C:\pp\s\NistJsonTool\target\apidocs\member-search-index.js = 1746760219087
+C:\pp\s\NistJsonTool\target\apidocs\module-search-index.js = 1746760219087
+C:\pp\s\NistJsonTool\target\apidocs\overview-summary.html = 1746760219145
+C:\pp\s\NistJsonTool\target\apidocs\overview-tree.html = 1746760219057
+C:\pp\s\NistJsonTool\target\apidocs\package-search-index.js = 1746760219087
+C:\pp\s\NistJsonTool\target\apidocs\script.js = 1746760219147
+C:\pp\s\NistJsonTool\target\apidocs\search.js = 1746760219158
+C:\pp\s\NistJsonTool\target\apidocs\serialized-form.html = 1746760219001
+C:\pp\s\NistJsonTool\target\apidocs\stylesheet.css = 1746760219147
+C:\pp\s\NistJsonTool\target\apidocs\tag-search-index.js = 1746760219102
+C:\pp\s\NistJsonTool\target\apidocs\type-search-index.js = 1746760219087

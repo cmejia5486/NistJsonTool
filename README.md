@@ -107,6 +107,66 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans13.png" alt="NetBeans13" />
 </div> 
 
+8. Once the necessary files have been downloaded, click the "Next" button.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans14.png" alt="NetBeans14" />
+</div> 
+
+9. Review the settings for the Payara server and click the "Finish" button.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans15.png" alt="NetBeans15" />
+</div> 
+
+10. Right click on Payara Server and press the "Start" button..
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans16.png" alt="NetBeans16" />
+</div> 
+
+11. Once Payara server is deployed, visit the address http://localhost:8080, to access the administration console.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans17.png" alt="NetBeans17" />
+</div> 
+
+12. Click on the application option to manage the deployed applications.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans18.png" alt="NetBeans18" />
+</div> 
+
+13. Click the deploy button and select the application war file to deploy.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans19.png" alt="NetBeans19" />
+</div> 
+
+14. Click the "deploy" button, select the *.war file of the application you want to deploy, and click "ok.".
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans20.png" alt="NetBeans20" />
+</div> 
+
+15. The name NistJson will be presented as a list of applications deployed on the server, then click on "Launch" buttom.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans20.png" alt="NetBeans20" />
+</div> 
+
+16. Click on the first server link.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans21.png" alt="NetBeans21" />
+</div> 
+
+17. You will be redirected to the index.xhtml, the main page of the tool presented in this project..
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans22.png" alt="NetBeans21" />
+</div> 
+
 ## Setting the keywords
 
  1. Inside the nist.main package go to the main.class class and in the list of strings you can add as many "keys" as you consider necessary, for the particular example "HEALTH" and "MEDIC" have been added.
