@@ -181,6 +181,23 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans24.png" alt="NetBeans24" />
 </div> 
 
+6. By clicking the "Process JSON" button, the JSON files uploaded to the server will be processed according to the start year, end year, and the keywords entered for the purpose.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans25.png" alt="NetBeans25" />
+</div> 
+
+7. Details of the files processed or any errors that occurred during execution will be displayed in the "Process Log" section. This section will inform you when the application has completed processing.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans26.png" alt="NetBeans26" />
+</div> 
+
+8. The "Download CSVs" button allows you to download, in a consolidated manner and in *zip format, the vulnerabilities, software products, and associated CWE categories according to the time interval and previously defined keywords.
+    
+<div align="center">
+  <img src="TutorialImgs/Netbeans27.png" alt="NetBeans27" />
+</div> 
 
 ## Demo
 [Demo video](https://youtu.be/LmwGtRXYmxI?si=MOAlIm66rHSoARXy)
