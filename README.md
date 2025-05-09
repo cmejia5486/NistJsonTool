@@ -125,7 +125,7 @@ The application allows users to filter CVEs by year and keyword, correlate them 
   <img src="TutorialImgs/Netbeans16.png" alt="NetBeans16" />
 </div> 
 
-11. Once Payara server is deployed, visit the address http://localhost:8080, to access the administration console.
+11. Once Payara server is deployed, visit the address http://localhost:4848, to access the administration console.
     
 <div align="center">
   <img src="TutorialImgs/Netbeans17.png" alt="NetBeans17" />
