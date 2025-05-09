@@ -8,14 +8,14 @@
 -source
 '17'
 -sourcepath
-'C:/pp/s/NistJsonTool/src/main/java;C:/pp/s/NistJsonTool/target/generated-sources/annotations'
+'C:/OneDrive - Universidad Regional Amazónica IKIAM/Escritorio/cursos/phd/paper 4/programa/NistJsonTool/NistJsonTool/src/main/java;C:/OneDrive - Universidad Regional Amazónica IKIAM/Escritorio/cursos/phd/paper 4/programa/NistJsonTool/NistJsonTool/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2025. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/pp/s/NistJsonTool/target/apidocs'
+'C:/OneDrive - Universidad Regional Amazónica IKIAM/Escritorio/cursos/phd/paper 4/programa/NistJsonTool/NistJsonTool/target/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -55,23 +55,23 @@ C:\Users\Carlos\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.
 C:\Users\Carlos\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar = 1736390594394
 C:\Users\Carlos\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar = 1736390594532
 C:\Users\Carlos\.m2\repository\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar = 1733799718923
-C:\pp\s\NistJsonTool\src\main\java = 1746675586956
-C:\pp\s\NistJsonTool\target\generated-sources\annotations = 1746760212168
-C:\pp\s\NistJsonTool\target\apidocs\allclasses-index.html = 1746760219087
-C:\pp\s\NistJsonTool\target\apidocs\allpackages-index.html = 1746760219087
-C:\pp\s\NistJsonTool\target\apidocs\element-list = 1746760218947
-C:\pp\s\NistJsonTool\target\apidocs\help-doc.html = 1746760219147
-C:\pp\s\NistJsonTool\target\apidocs\index-all.html = 1746760219142
-C:\pp\s\NistJsonTool\target\apidocs\index.html = 1746760219062
-C:\pp\s\NistJsonTool\target\apidocs\jquery-ui.overrides.css = 1746760219178
-C:\pp\s\NistJsonTool\target\apidocs\member-search-index.js = 1746760219087
-C:\pp\s\NistJsonTool\target\apidocs\module-search-index.js = 1746760219087
-C:\pp\s\NistJsonTool\target\apidocs\overview-summary.html = 1746760219145
-C:\pp\s\NistJsonTool\target\apidocs\overview-tree.html = 1746760219057
-C:\pp\s\NistJsonTool\target\apidocs\package-search-index.js = 1746760219087
-C:\pp\s\NistJsonTool\target\apidocs\script.js = 1746760219147
-C:\pp\s\NistJsonTool\target\apidocs\search.js = 1746760219158
-C:\pp\s\NistJsonTool\target\apidocs\serialized-form.html = 1746760219001
-C:\pp\s\NistJsonTool\target\apidocs\stylesheet.css = 1746760219147
-C:\pp\s\NistJsonTool\target\apidocs\tag-search-index.js = 1746760219102
-C:\pp\s\NistJsonTool\target\apidocs\type-search-index.js = 1746760219087
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\src\main\java = 1746732595567
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\generated-sources\annotations = 1746765246001
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\allclasses-index.html = 1746765286234
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\allpackages-index.html = 1746765286240
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\element-list = 1746765286046
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\help-doc.html = 1746765286306
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\index-all.html = 1746765286294
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\index.html = 1746765286203
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\jquery-ui.overrides.css = 1746765286338
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\member-search-index.js = 1746765286252
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\module-search-index.js = 1746765286242
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\overview-summary.html = 1746765286299
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\overview-tree.html = 1746765286199
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\package-search-index.js = 1746765286246
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\script.js = 1746765286314
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\search.js = 1746765286318
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\serialized-form.html = 1746765286121
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\stylesheet.css = 1746765286310
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\tag-search-index.js = 1746765286256
+C:\OneDrive - Universidad Regional Amazónica IKIAM\Escritorio\cursos\phd\paper 4\programa\NistJsonTool\NistJsonTool\target\apidocs\type-search-index.js = 1746765286250
