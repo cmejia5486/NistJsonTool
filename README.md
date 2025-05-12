@@ -200,7 +200,7 @@ The application allows users to filter CVEs by year and keyword, correlate them 
 </div> 
 
 ## Demo
-[Demo video](https://youtu.be/LmwGtRXYmxI?si=MOAlIm66rHSoARXy)
+[Demo video](https://youtu.be/Li2Ww7ov4c0)
 
 ## Technical Documentation Manual
 [JavaDoc](target/apidocs/index.html)
