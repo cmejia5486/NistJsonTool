@@ -8,11 +8,11 @@
     </welcome-file-list>
     <context-param>
         <param-name>jakarta.faces.PROJECT_STAGE</param-name>
-        <param-value>Development</param-value>
+        <param-value>Production</param-value>
     </context-param>
     <session-config>
         <session-timeout>
-            30
+            60
         </session-timeout>
     </session-config>
     <servlet>
