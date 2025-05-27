@@ -25,10 +25,8 @@
         <servlet-class>jakarta.faces.webapp.FacesServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
         <multipart-config>
-            <!-- 0 = ilimitado -->
             <max-file-size>0</max-file-size>
             <max-request-size>0</max-request-size>
-            <!-- umbral en RAM antes de disco: 10 MiB -->
             <file-size-threshold>10485760</file-size-threshold>
         </multipart-config>
     </servlet>
