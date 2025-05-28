@@ -27,15 +27,13 @@
                 <f:facet name="header">
                     <div style="display: flex; justify-content: space-between; align-items: center;">
                         <span>#{msg['form.header']}</span>
-                        <h:form>
-                            <p:selectOneMenu value="#{localeBean.language}" style="width:150px;" onchange="submit()">
-                                <f:selectItem itemLabel="English" itemValue="en" />
-                                <f:selectItem itemLabel="Español" itemValue="es" />
-                                <f:selectItem itemLabel="Français" itemValue="fr" />
-                                <f:selectItem itemLabel="Português" itemValue="pt" />
-                                <f:selectItem itemLabel="Deutsch" itemValue="de" />
-                            </p:selectOneMenu>
-                        </h:form>
+                        <p:selectOneMenu value="#{localeBean.language}" style="width:150px;" onchange="submit()">
+                            <f:selectItem itemLabel="English" itemValue="en" />
+                            <f:selectItem itemLabel="Español" itemValue="es" />
+                            <f:selectItem itemLabel="Français" itemValue="fr" />
+                            <f:selectItem itemLabel="Português" itemValue="pt" />
+                            <f:selectItem itemLabel="Deutsch" itemValue="de" />
+                        </p:selectOneMenu>
                     </div>
                 </f:facet>
 
@@ -78,8 +76,10 @@
                                   multiple="true"
                                   auto="true"
                                   dragDropSupport="true"
-                                  maxChunkSize="10485760"
+                                  maxChunkSize="20971520"
                                   sequential="false"
+                                  maxRetries="3"
+                                  retryTimeout="5000"
                                   update="nistForm:growl"
                                   label="#{msg['upload.info3']}"
                                   allowTypes="/(\\.|\/)(json)$/"
